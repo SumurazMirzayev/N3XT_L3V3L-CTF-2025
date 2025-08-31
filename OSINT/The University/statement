@@ -1,0 +1,7 @@
+Determine where this image was taken and identify the university located there.
+
+Submission Format: Submit the official English name of the university. If the name has multiple words, replace spaces with underscores (_).
+
+Example (not the answer): If your answer is University of California Berkeley, submit it as:
+
+n3xt{University_of_California_Berkeley}

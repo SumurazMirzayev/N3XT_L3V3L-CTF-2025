@@ -1,0 +1,5 @@
+The intelligence points to a monolithic structure on a historic Balkan peak. The concrete behemoth, now a decaying shell, was erected as a testament to an ideology. The crux of your mission lies in two distinct temporal and physical markers. Unravel the year of the seminal clandestine gathering that predates the concrete's first pour, a foundational moment on that very mountain. Ascertain the exact vertical measurement (in meters) of the sentinel pylon, adorned with a celestial emblem, that keeps watch over the main edifice.
+
+Combine these unearthed fragments into the designated flag format: n3xt{YEAR_HEIGHT}. Remember to append 'M' directly to the numerical height.
+
+Example: n3xt{2020_10M}

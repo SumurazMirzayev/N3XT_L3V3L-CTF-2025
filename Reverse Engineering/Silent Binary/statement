@@ -1,0 +1,9 @@
+You are given an executable binary file  When executed, the program appears to do nothing — there is no visible output or interaction.
+
+However, if analyzed properly, the binary reveals a suspicious string at the end of execution or when inspecting its contents. Your task is to reverse engineer the binary and extract the actual flag.
+
+Upon inspection or execution, you may see a string like:
+
+xNZ.n?ih;GZ.GNc.m+rvksoi.
+
+Find flag =).

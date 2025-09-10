@@ -1,0 +1,3 @@
+We found this suspicious binary, and it seems to be some kind of compiled script. It definitely hides something — possibly a flag — but it won’t give it up easily. Can you figure out how it works and extract the flag?
+
+Flag format: n3xt{}
